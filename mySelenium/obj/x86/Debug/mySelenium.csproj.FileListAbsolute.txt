@@ -1,0 +1,11 @@
+c:\users\dhlopez\documents\visual studio 2010\Projects\mySelenium\mySelenium\bin\Debug\mySelenium.exe
+c:\users\dhlopez\documents\visual studio 2010\Projects\mySelenium\mySelenium\bin\Debug\mySelenium.pdb
+c:\users\dhlopez\documents\visual studio 2010\Projects\mySelenium\mySelenium\bin\Debug\WebDriver.dll
+c:\users\dhlopez\documents\visual studio 2010\Projects\mySelenium\mySelenium\bin\Debug\WebDriver.Support.dll
+c:\users\dhlopez\documents\visual studio 2010\Projects\mySelenium\mySelenium\bin\Debug\WebDriver.pdb
+c:\users\dhlopez\documents\visual studio 2010\Projects\mySelenium\mySelenium\bin\Debug\WebDriver.xml
+c:\users\dhlopez\documents\visual studio 2010\Projects\mySelenium\mySelenium\bin\Debug\WebDriver.Support.pdb
+c:\users\dhlopez\documents\visual studio 2010\Projects\mySelenium\mySelenium\bin\Debug\WebDriver.Support.xml
+c:\users\dhlopez\documents\visual studio 2010\Projects\mySelenium\mySelenium\obj\x86\Debug\mySelenium.exe
+c:\users\dhlopez\documents\visual studio 2010\Projects\mySelenium\mySelenium\obj\x86\Debug\mySelenium.pdb
+C:\Users\dhlopez\documents\visual studio 2010\Projects\mySelenium\mySelenium\obj\x86\Debug\mySelenium.csprojResolveAssemblyReference.cache
